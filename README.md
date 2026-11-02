@@ -25,9 +25,7 @@
 - 🌍 Languages: French, English (TOEIC), German (Goethe B2)
 - 🔎 Looking for an **end-of-study internship** (5–6 months, from February 2027) in software development or cybersecurity
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif"  />
-</div>
+
 
 <h2 data-importer="text" align="left">I code with</h2>
 
@@ -101,9 +99,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LRaVe&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
 </div>
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://kratikal.com/blog/wp-content/uploads/2023/10/GIF-Image.gif"  />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
